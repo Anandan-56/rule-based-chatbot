@@ -79,10 +79,10 @@ python chatbot_if_else.py
 
 ## **🧠 Sample Conversation**
 
-```
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ebbb5a9e-642f-4c1c-b6d9-013656fb05b5" />
 
-```
+
 
 ---
 
