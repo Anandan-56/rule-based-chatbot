@@ -1,7 +1,7 @@
 
 ---
 
-# 📌 Rule-Based Chatbot (Using if-else)**
+# 📌 Rule-Based Chatbot (Using if-else)
 
 ## **📘 Project Title**
 
@@ -42,12 +42,19 @@ The bot works entirely using **if-elif-else rules**, without any machine learnin
 ## **📌 Features**
 
 ✔ Greeting detection
+
 ✔ “How are you?” response
+
 ✔ Time-telling feature
+
 ✔ Tells jokes
+
 ✔ Responds to thanks
+
 ✔ Basic FAQs (name, usage)
+
 ✔ Fallback messages (“I didn’t understand…”)
+
 ✔ Exit command support
 
 ---
